@@ -4,6 +4,7 @@ React Native Cli: https://www.youtube.com/watch?v=ANdSdIlgsEw&list=PL8kfZyp--gEX
 
 Redux and Saga: https://www.youtube.com/playlist?list=PL8p2I9GklV44NMx-i9-A0EN3X-s7cDdty 
 https://vhudyma-blog.eu/add-redux-saga-with-typescript-to-your-react-application-january-2021/
+https://codesandbox.io/s/react-redux-saga-crud-272yp?file=/src/redux/reducers/addPost.js
 
 
 Setup infra for react Native Cli (Follow any of the following docs): 
